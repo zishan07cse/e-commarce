@@ -1,4 +1,4 @@
-<footer class="bg-dark">
+<footer class="bg-dark mt-3">
     <div class="container bg-dark">
         <div class="footer">
             <div class="row">
@@ -16,14 +16,16 @@
                     <h3>
                         Contact:
                     </h3>
-                    <p>Email: mohammedomer789@gmail.com</p>
-                    <p>Website: <a href="https://mhmdomer.com">Personal Website</a></p>
-                    <p>Github: <a href="https://github.com/mhmdomer">@mhmdomer</a></p>
-                    <p>Twitter: <a href="https://twitter.com/mhmdomer_">@mhmdomer_</a></p>
-                    <p>LinkedIn: <a href="https://linkedin.com/in/mohammed-omer-ali">Mohammed Omer</a></p>
+                    <p>Email:zishancse@proton.me</p>
+                    <p>Github: <a href="https://github.com/zishan07cse" target="_blank">Md Arif Rizvee</a></p>
+                    <p>LinkedIn: <a href="https://www.linkedin.com/in/md-arif-rizvee-zishan-84baa24a/" target="_blank">
+
+Md Arif Rizvee Zishan</a></p>
                 </div>
             </div>
         </div>
-        <p>copyright &copy; Mohammed Omer Ali - All rights reserved 2019</p>
+        <div class="col-lg-12">
+             <p style="text-align:center">copyright &copy; Md Arif Rizvee - All rights reserved 2019</p>
+        </div>
     </div>
 </footer>
